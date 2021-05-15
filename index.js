@@ -1,6 +1,9 @@
 const express = require('express')
+const connectDB = require('./config/config')
 require('dotenv').config()
 const app = express()
+
+connectDB()
 
 
 // GET, PUT,POST,DELETE

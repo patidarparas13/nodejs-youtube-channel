@@ -1,7 +1,8 @@
 
-What are ENV Variables ?
 
-Why we use ENV Variables  ?
+//Let's Discuss About MongoDB
 
-When we use ENV Variables ?
+It's NoSql DB which stores information in BSON(JSON like Documents)
 
+1. Install Robot3T - Free & Open Source GUI For MongoDB
+2. Mongoose Build On Top Of MongoDB
