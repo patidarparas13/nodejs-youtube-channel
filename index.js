@@ -10,6 +10,7 @@ connectDB()
 //req -> request
 //res -> response
 //This Comment is for testing Git
+//We are doing this to pull the changes
 if(process.env.ENVIRONMENT=='development'){
     app.get('/',(req,res)=>{
         res.send("Hey Server Is Started For Dev!")
